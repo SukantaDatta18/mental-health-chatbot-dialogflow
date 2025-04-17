@@ -1,45 +1,44 @@
-# Mental Health Chatbot (DialogFlow + NLP)  
+# 💬 Mental Health Chatbot (DialogFlow + NLP)  
 
-Course: Web Engineering Lab  
-Instructor: Mohammad Mynoddin  
-Designation: Assistant Professor (CSE), Rangamati Science and Technology University  
+📚 Course: Web Engineering Lab  
+👨‍🏫 Instructor: Mohammad Mynoddin  
+🏛️ Designation: Assistant Professor (CSE), Rangamati Science and Technology University  
+
+---
 
 ## 🚀 Setup  
-1. Clone this repo:  
+1. Clone this repository:  
    ```bash
    git clone https://github.com/SukantaDatta18/mental-health-chatbot-dialogflow.git
+Open index.html in your preferred browser 🌐
 
-✨ Features
+✨ Key Features
+🧠 Core Functionalities
+🤖 NLP-Powered Responses: DialogFlow processes natural language queries
 
-Core Functionalities
-NLP-Powered Responses: DialogFlow processes user queries with natural language understanding.
+😊 Emotion Detection: Identifies stress/anxiety keywords with empathetic responses
 
-Emotion Detection: Detects keywords related to stress/anxiety and responds empathetically.
+💾 Session Storage: Preserves chat history in browser
 
-Local Storage: Saves chat history in the browser (if implemented).
+🎨 UI/UX Design
+📱 Responsive Design: Mobile & desktop compatible
 
-UI/UX
+🎨 Therapeutic Colors: Calming visual experience
 
-Responsive Design: Works on mobile and desktop.
+🪄 Smooth Animations: Pleasant message transitions
 
-Therapeutic Color Scheme: Calming colors for mental health support.
+⚙️ Technical Integration
+🔗 DialogFlow ES: Google's NLP engine integration
 
-Integration
+📜 Vanilla JavaScript: Lightweight implementation
 
-DialogFlow ES: Connects to Google's NLP engine.
+🖥️ REST API: Handles dynamic interactions
 
-JavaScript API: Handles dynamic chat interactions.
-
-📁 Project Structure
+📂 Project Structure
 
 mental-health-chatbot-dialogflow/
-
-├── index.html         # Main application interface
-
-├── script.js          # Chatbot logic and DialogFlow integration
-
-├── style.css          # Styling and responsive design
-
-├── assets/            # (Optional) Contains images/icons
-
-└── README.md          # Project documentation
+├── 📄 index.html         # Main interface
+├── 📜 script.js          # Chatbot logic
+├── 🎨 style.css          # Styling
+├── 🖼️ assets/            # Images/icons
+└── 📝 README.md          # Documentation
