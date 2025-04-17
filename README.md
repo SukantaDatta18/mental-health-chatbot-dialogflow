@@ -13,7 +13,9 @@
 Open index.html in your preferred browser 🌐
 
 ✨ Key Features
+
 🧠 Core Functionalities
+
 🤖 NLP-Powered Responses: DialogFlow processes natural language queries
 
 😊 Emotion Detection: Identifies stress/anxiety keywords with empathetic responses
@@ -21,6 +23,7 @@ Open index.html in your preferred browser 🌐
 💾 Session Storage: Preserves chat history in browser
 
 🎨 UI/UX Design
+
 📱 Responsive Design: Mobile & desktop compatible
 
 🎨 Therapeutic Colors: Calming visual experience
@@ -28,6 +31,7 @@ Open index.html in your preferred browser 🌐
 🪄 Smooth Animations: Pleasant message transitions
 
 ⚙️ Technical Integration
+
 🔗 DialogFlow ES: Google's NLP engine integration
 
 📜 Vanilla JavaScript: Lightweight implementation
