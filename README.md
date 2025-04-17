@@ -37,8 +37,13 @@ Open index.html in your preferred browser 🌐
 📂 Project Structure
 
 mental-health-chatbot-dialogflow/
+
 ├── 📄 index.html         # Main interface
+
 ├── 📜 script.js          # Chatbot logic
+
 ├── 🎨 style.css          # Styling
+
 ├── 🖼️ assets/            # Images/icons
+
 └── 📝 README.md          # Documentation
