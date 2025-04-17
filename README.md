@@ -33,6 +33,7 @@ JavaScript API: Handles dynamic chat interactions.
 📁 Project Structure
 
 mental-health-chatbot-dialogflow/
+
 ├── index.html         # Main application interface
 
 ├── script.js          # Chatbot logic and DialogFlow integration
