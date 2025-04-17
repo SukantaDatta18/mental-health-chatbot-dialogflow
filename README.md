@@ -13,17 +13,21 @@ Designation: Assistant Professor (CSE), Rangamati Science and Technology Univers
 
 Core Functionalities
 NLP-Powered Responses: DialogFlow processes user queries with natural language understanding.
+
 Emotion Detection: Detects keywords related to stress/anxiety and responds empathetically.
+
 Local Storage: Saves chat history in the browser (if implemented).
 
 UI/UX
 
 Responsive Design: Works on mobile and desktop.
+
 Therapeutic Color Scheme: Calming colors for mental health support.
 
 Integration
 
 DialogFlow ES: Connects to Google's NLP engine.
+
 JavaScript API: Handles dynamic chat interactions.
 
 📁 Project Structure
