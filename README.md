@@ -60,12 +60,16 @@ mental-health-chatbot-dialogflow/
 ├── agent/               # Dialogflow export
 │   └── agent.zip        # Pre-trained NLP model
 └── README.md            # This documentation
-👥 Developers
-Sukanta Datta
+👨‍💻 Development Team
+🤵 Project Lead
+👨‍💻 Sukanta Datta
+🔗 GitHub Profile
 
-Rahul Biswas
+👨‍🔧 Core Contributor
+👨‍💻 Rahul Biswas
+🔗 GitHub Profile
 
 📜 License
 MIT License - See LICENSE for details.
 
-<div align="center"> <p>💙 Developed for academic purposes under guidance of Prof. Mohammad Mynoddin</p> <p>⭐ Please star this repository if you find it useful!</p> </div> ```
+<p align="center"> Developed with ❤️ under guidance of <b>Prof. Mohammad Mynoddin</b><br> ⭐ Star this repository if you find our work valuable! </p> ```
