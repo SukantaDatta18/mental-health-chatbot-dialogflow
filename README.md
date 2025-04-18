@@ -1,7 +1,6 @@
 
 # 🧠 Mental Health Chatbot with Dialogflow
 
-![Project Banner](https://via.placeholder.com/1200x400/5e35b1/ffffff?text=Mental+Health+Chatbot+Demo)
 
 📚 **Course**: Web Engineering Lab  
 👨‍🏫 **Instructor**: Mohammad Mynoddin  
@@ -82,5 +81,5 @@ MIT License - See [LICENSE](LICENSE) for details.
   Developed with ❤️ under guidance of <b>Prof. Mohammad Mynoddin</b><br>
   ⭐ Star this repository if you find our work valuable!
 </p>
-```
+
 
