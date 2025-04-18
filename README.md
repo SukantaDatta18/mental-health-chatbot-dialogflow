@@ -1,66 +1,91 @@
-# 🧠 Mental Health Support Chatbot 🤖
 
-![Chatbot Demo](https://raw.githubusercontent.com/SukantaDatta18/mental-health-chatbot-dialogflow/main/assets/chatbot-demo.gif) *Replace with your demo GIF link*
+# 🧠 Mental Health Chatbot with Dialogflow
+
+![Project Banner](https://raw.githubusercontent.com/SukantaDatta18/mental-health-chatbot-dialogflow/main/assets/chatbot-banner.gif)
 
 📚 **Course**: Web Engineering Lab  
 👨‍🏫 **Instructor**: Mohammad Mynoddin  
-🏛️ **Designation**: Assistant Professor (CSE), Rangamati Science and Technology University  
+🏛️ **Institution**: Rangamati Science and Technology University  
+📅 **Project Date**: December 2023
 
-An AI-powered chatbot providing mental health support through natural conversations, built with Dialogflow's NLP capabilities.
+An AI-powered mental health support chatbot using Dialogflow's natural language processing, providing compassionate conversations and resources.
 
-## 🌟 Key Features
-- 🗣️ **Natural Language Understanding** - Human-like conversations about mental health
-- 🛡️ **Privacy-First Approach** - No personal data collection
-- 🌈 **Multiple Support Topics**:
-  - Anxiety relief techniques
-  - Stress management tips
-  - Depression coping strategies
-  - Mindfulness exercises
-- 📱 **Web-Ready Interface** - Clean HTML/CSS frontend
+## ✨ Key Features
 
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?logo=dialogflow&logoColor=white)
+- 🗨️ **Natural Conversations**  
+  Human-like dialogues about mental health concerns
 
-## 🚀 Setup Guide
+- 🧘 **Guided Support**  
+  Provides coping strategies for:
+  - Anxiety
+  - Depression 
+  - Stress
+  - Sleep issues
+
+- 🔐 **Privacy Focused**  
+  No personal data collection or storage
+
+- 🌐 **Web Integration**  
+  Ready-to-deploy HTML/CSS interface
+
+## 🛠️ Technology Stack
+
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🚀 Getting Started
 
 ### Prerequisites
 - Google Cloud account (for Dialogflow)
-- Web browser
+- Modern web browser
 
 ### Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/SukantaDatta18/mental-health-chatbot-dialogflow.git
-Open index.html in any browser
+Open the project:
 
+bash
+cd mental-health-chatbot-dialogflow
+Launch in browser:
+
+bash
+open index.html  # Or double-click the file
 Dialogflow Setup
-Import agent.zip into your Dialogflow console
+Import agent.zip to Dialogflow Console
 
-Configure the default welcome intent
+Configure fulfillment settings
 
 Enable web integration
 
 🏗️ Project Structure
 mental-health-chatbot-dialogflow/
-├── index.html          # Chat interface
-├── style.css           # Styling
-├── script.js           # Chatbot integration
-├── agent/              # Dialogflow export
-│   └── agent.zip       # Pre-trained NLP model
-└── assets/             # Media files
-    └── chatbot-demo.gif # Demo screencast
+├── index.html            # Main interface
+├── style.css             # Styling
+├── script.js             # Chatbot logic
+├── agent/
+│   └── agent.zip         # Dialogflow agent export
+└── assets/
+    ├── images/           # Screenshots
+    └── chatbot-banner.gif # Demo animation
+🤖 How It Works
+User Input
+Message sent to Dialogflow NLP engine
+
+Intent Recognition
+Identifies the user's mental health concern
+
+Response Generation
+Returns empathetic, helpful responses
+
+Continuous Learning
+Improves through conversation history
+
 👥 Development Team
-<table> <tr> <td align="center"> <a href="https://github.com/SukantaDatta18"> <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" alt="Sukanta"/> <br /> <sub><b>Sukanta Datta</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rahulbiswas9502"> <img src="https://avatars.githubusercontent.com/u/87654321?v=4" width="100px;" alt="Rahul"/> <br /> <sub><b>Rahul Biswas</b></sub> </a> </td> </tr> </table>
-*Replace avatar links with:
-
-Yours: https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID
-
-Rahul's: https://avatars.githubusercontent.com/u/RAHULS_GITHUB_USER_ID*
-
+<table> <tr> <td align="center"> <a href="https://github.com/SukantaDatta18"> <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="100px;" alt="Sukanta"/> <br /> <sub><b>Sukanta Datta</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rahulbiswas9502"> <img src="https://avatars.githubusercontent.com/u/RAHULS_USER_ID?v=4" width="100px;" alt="Rahul"/> <br /> <sub><b>Rahul Biswas</b></sub> </a> </td> </tr> </table>
 📜 License
-MIT License © 2023 - See LICENSE for details.
+MIT License - See LICENSE for details.
 
-<div align="center"> <p>💬 <i>"Your mental health matters"</i> - This project was created to help people find support</p> <p>⭐ Please star this repository if you find it valuable!</p> </div> ```
+<div align="center"> <p>💙 Developed for academic purposes under guidance of Prof. Mohammad Mynoddin</p> <p>🌟 Star this repository if you find it useful!</p> </div> ```
