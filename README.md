@@ -1,29 +1,27 @@
-
 # 🧠 Mental Health Chatbot with Dialogflow
 
-![Project Banner](https://raw.githubusercontent.com/SukantaDatta18/mental-health-chatbot-dialogflow/main/assets/chatbot-banner.gif)
+![Project Banner](https://via.placeholder.com/1200x400/5e35b1/ffffff?text=Mental+Health+Chatbot+Demo)
 
 📚 **Course**: Web Engineering Lab  
 👨‍🏫 **Instructor**: Mohammad Mynoddin  
 🏛️ **Institution**: Rangamati Science and Technology University  
-📅 **Project Date**: December 2023
 
-An AI-powered mental health support chatbot using Dialogflow's natural language processing, providing compassionate conversations and resources.
+An AI-powered chatbot providing mental health support through natural conversations using Dialogflow's NLP technology.
 
 ## ✨ Key Features
 
-- 🗨️ **Natural Conversations**  
-  Human-like dialogues about mental health concerns
+- 🗨️ **Natural Language Processing**  
+  Understands user concerns with contextual awareness
 
-- 🧘 **Guided Support**  
-  Provides coping strategies for:
+- 🧘 **Mental Health Support**  
+  Provides resources for:
   - Anxiety
-  - Depression 
   - Stress
-  - Sleep issues
+  - Depression
+  - Sleep disorders
 
-- 🔐 **Privacy Focused**  
-  No personal data collection or storage
+- 🔒 **Privacy Protection**  
+  No personal data storage
 
 - 🌐 **Web Integration**  
   Ready-to-deploy HTML/CSS interface
@@ -41,51 +39,33 @@ An AI-powered mental health support chatbot using Dialogflow's natural language 
 - Google Cloud account (for Dialogflow)
 - Modern web browser
 
-### Installation
+### Setup
 1. Clone the repository:
 ```bash
 git clone https://github.com/SukantaDatta18/mental-health-chatbot-dialogflow.git
-Open the project:
+Open index.html in any browser
 
-bash
-cd mental-health-chatbot-dialogflow
-Launch in browser:
-
-bash
-open index.html  # Or double-click the file
-Dialogflow Setup
+Dialogflow Configuration
 Import agent.zip to Dialogflow Console
 
-Configure fulfillment settings
+Configure default welcome intent
 
 Enable web integration
 
 🏗️ Project Structure
 mental-health-chatbot-dialogflow/
-├── index.html            # Main interface
-├── style.css             # Styling
-├── script.js             # Chatbot logic
-├── agent/
-│   └── agent.zip         # Dialogflow agent export
-└── assets/
-    ├── images/           # Screenshots
-    └── chatbot-banner.gif # Demo animation
-🤖 How It Works
-User Input
-Message sent to Dialogflow NLP engine
+├── index.html            # Chat interface
+├── style.css            # Styling
+├── script.js            # Chatbot integration
+├── agent/               # Dialogflow export
+│   └── agent.zip        # Pre-trained NLP model
+└── README.md            # This documentation
+👥 Developers
+Sukanta Datta
 
-Intent Recognition
-Identifies the user's mental health concern
+Rahul Biswas
 
-Response Generation
-Returns empathetic, helpful responses
-
-Continuous Learning
-Improves through conversation history
-
-👥 Development Team
-<table> <tr> <td align="center"> <a href="https://github.com/SukantaDatta18"> <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="100px;" alt="Sukanta"/> <br /> <sub><b>Sukanta Datta</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Rahulbiswas9502"> <img src="https://avatars.githubusercontent.com/u/RAHULS_USER_ID?v=4" width="100px;" alt="Rahul"/> <br /> <sub><b>Rahul Biswas</b></sub> </a> </td> </tr> </table>
 📜 License
 MIT License - See LICENSE for details.
 
-<div align="center"> <p>💙 Developed for academic purposes under guidance of Prof. Mohammad Mynoddin</p> <p>🌟 Star this repository if you find it useful!</p> </div> ```
+<div align="center"> <p>💙 Developed for academic purposes under guidance of Prof. Mohammad Mynoddin</p> <p>⭐ Please star this repository if you find it useful!</p> </div> ```
